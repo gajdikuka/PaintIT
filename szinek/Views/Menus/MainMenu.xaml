@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="szinek.MainMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:szinek"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid Background="#FF5DC2D5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="7*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="12*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="0*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="10*" />
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="8" Background="{x:Null}" FontFamily="Open Sans SemiBold" Content="PaintIT" FontSize="120" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White"></Label>
+        <Rectangle Grid.Column="1" Grid.Row="1" Grid.RowSpan="8" Grid.ColumnSpan="6" Fill="White"></Rectangle>
+
+        <Button x:Name="btnLevelSelect" Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_SelectLevel" Cursor="Hand">Select Level</Button>
+        <Button x:Name="btnLevelEditor" Grid.Column="2" Grid.Row="5" Grid.ColumnSpan="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_LevelEditor" Cursor="Hand">Level Editor</Button>
+        <Button x:Name="btnExit" Grid.Column="3" Grid.Row="7" Grid.ColumnSpan="2" Background="Red" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Exit" Cursor="Hand">Exit</Button>
+
+
+    </Grid>
+</UserControl>

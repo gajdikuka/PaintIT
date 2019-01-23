@@ -1,0 +1,330 @@
+﻿<UserControl x:Class="szinek.Level1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:szinek"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid Name="myGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        
+        <Rectangle Name="c00r00" Grid.Column="0" Grid.Row="0"  MouseDown="c00r00_MouseDown"></Rectangle>
+        <Rectangle Name="c01r00" Grid.Column="1" Grid.Row="0"  MouseDown="c01r00_MouseDown"></Rectangle>
+        <Rectangle Name="c02r00" Grid.Column="2" Grid.Row="0"  MouseDown="c02r00_MouseDown"></Rectangle>
+        <Rectangle Name="c03r00" Grid.Column="3" Grid.Row="0"  MouseDown="c03r00_MouseDown"></Rectangle>
+        <Rectangle Name="c04r00" Grid.Column="4" Grid.Row="0"  MouseDown="c04r00_MouseDown"></Rectangle>
+        <Rectangle Name="c05r00" Grid.Column="5" Grid.Row="0"  MouseDown="c05r00_MouseDown"></Rectangle>
+        <Rectangle Name="c06r00" Grid.Column="6" Grid.Row="0"  MouseDown="c06r00_MouseDown"></Rectangle>
+        <Rectangle Name="c07r00" Grid.Column="7" Grid.Row="0"  MouseDown="c07r00_MouseDown"></Rectangle>
+        <Rectangle Name="c08r00" Grid.Column="8" Grid.Row="0"  MouseDown="c08r00_MouseDown"></Rectangle>
+        <Rectangle Name="c09r00" Grid.Column="9" Grid.Row="0"  MouseDown="c09r00_MouseDown"></Rectangle>
+        <Rectangle Name="c10r00" Grid.Column="10" Grid.Row="0"  MouseDown="c10r00_MouseDown"></Rectangle>
+        <Rectangle Name="c11r00" Grid.Column="11" Grid.Row="0"  MouseDown="c11r00_MouseDown"></Rectangle>
+        <Rectangle Name="c12r00" Grid.Column="12" Grid.Row="0"  MouseDown="c12r00_MouseDown"></Rectangle>
+        <Rectangle Name="c13r00" Grid.Column="13" Grid.Row="0"  MouseDown="c13r00_MouseDown"></Rectangle>
+        <Rectangle Name="c14r00" Grid.Column="14" Grid.Row="0"  MouseDown="c14r00_MouseDown"></Rectangle>
+        <Rectangle Name="c15r00" Grid.Column="15" Grid.Row="0"  MouseDown="c15r00_MouseDown"></Rectangle>
+        <Rectangle Name="c16r00" Grid.Column="16" Grid.Row="0"  MouseDown="c16r00_MouseDown"></Rectangle>
+        <Rectangle Name="c17r00" Grid.Column="17" Grid.Row="0"  MouseDown="c17r00_MouseDown"></Rectangle>
+        <Rectangle Name="c18r00" Grid.Column="18" Grid.Row="0"  MouseDown="c18r00_MouseDown"></Rectangle>
+        <Rectangle Name="c19r00" Grid.Column="19" Grid.Row="0"  MouseDown="c19r00_MouseDown"></Rectangle>
+        <Rectangle Name="c20r00" Grid.Column="20" Grid.Row="0"  MouseDown="c20r00_MouseDown"></Rectangle>
+        <Rectangle Name="c21r00" Grid.Column="21" Grid.Row="0"  MouseDown="c21r00_MouseDown"></Rectangle>
+        <Rectangle Name="c22r00" Grid.Column="22" Grid.Row="0"  MouseDown="c22r00_MouseDown"></Rectangle>
+        <Rectangle Name="c23r00" Grid.Column="23" Grid.Row="0"  MouseDown="c23r00_MouseDown"></Rectangle>
+        <Rectangle Name="c24r00" Grid.Column="24" Grid.Row="0"  MouseDown="c24r00_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r01" Grid.Column="0" Grid.Row="1"  MouseDown="c00r01_MouseDown"></Rectangle>
+        <Rectangle Name="c01r01" Grid.Column="1" Grid.Row="1"  MouseDown="c01r01_MouseDown"></Rectangle>
+        <Rectangle Name="c02r01" Grid.Column="2" Grid.Row="1"  MouseDown="c02r01_MouseDown"></Rectangle>
+        <Rectangle Name="c03r01" Grid.Column="3" Grid.Row="1"  MouseDown="c03r01_MouseDown"></Rectangle>
+        <Rectangle Name="c04r01" Grid.Column="4" Grid.Row="1"  MouseDown="c04r01_MouseDown"></Rectangle>
+        <Rectangle Name="c05r01" Grid.Column="5" Grid.Row="1"  MouseDown="c05r01_MouseDown"></Rectangle>
+        <Rectangle Name="c06r01" Grid.Column="6" Grid.Row="1"  MouseDown="c06r01_MouseDown"></Rectangle>
+        <Rectangle Name="c07r01" Grid.Column="7" Grid.Row="1"  MouseDown="c07r01_MouseDown"></Rectangle>
+        <Rectangle Name="c08r01" Grid.Column="8" Grid.Row="1"  MouseDown="c08r01_MouseDown"></Rectangle>
+        <Rectangle Name="c09r01" Grid.Column="9" Grid.Row="1"  MouseDown="c09r01_MouseDown"></Rectangle>
+        <Rectangle Name="c10r01" Grid.Column="10" Grid.Row="1"  MouseDown="c10r01_MouseDown"></Rectangle>
+        <Rectangle Name="c11r01" Grid.Column="11" Grid.Row="1"  MouseDown="c11r01_MouseDown"></Rectangle>
+        <Rectangle Name="c12r01" Grid.Column="12" Grid.Row="1"  MouseDown="c12r01_MouseDown"></Rectangle>
+        <Rectangle Name="c13r01" Grid.Column="13" Grid.Row="1"  MouseDown="c13r01_MouseDown"></Rectangle>
+        <Rectangle Name="c14r01" Grid.Column="14" Grid.Row="1"  MouseDown="c14r01_MouseDown"></Rectangle>
+        <Rectangle Name="c15r01" Grid.Column="15" Grid.Row="1"  MouseDown="c15r01_MouseDown"></Rectangle>
+        <Rectangle Name="c16r01" Grid.Column="16" Grid.Row="1"  MouseDown="c16r01_MouseDown"></Rectangle>
+        <Rectangle Name="c17r01" Grid.Column="17" Grid.Row="1"  MouseDown="c17r01_MouseDown"></Rectangle>
+        <Rectangle Name="c18r01" Grid.Column="18" Grid.Row="1"  MouseDown="c18r01_MouseDown"></Rectangle>
+        <Rectangle Name="c19r01" Grid.Column="19" Grid.Row="1"  MouseDown="c19r01_MouseDown"></Rectangle>
+        <Rectangle Name="c20r01" Grid.Column="20" Grid.Row="1"  MouseDown="c20r01_MouseDown"></Rectangle>
+        <Rectangle Name="c21r01" Grid.Column="21" Grid.Row="1"  MouseDown="c21r01_MouseDown"></Rectangle>
+        <Rectangle Name="c22r01" Grid.Column="22" Grid.Row="1"  MouseDown="c22r01_MouseDown"></Rectangle>
+        <Rectangle Name="c23r01" Grid.Column="23" Grid.Row="1"  MouseDown="c23r01_MouseDown"></Rectangle>
+        <Rectangle Name="c24r01" Grid.Column="24" Grid.Row="1"  MouseDown="c24r01_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r02" Grid.Column="0"  Grid.Row="2"  MouseDown="c00r02_MouseDown"></Rectangle>
+        <Rectangle Name="c01r02" Grid.Column="1"  Grid.Row="2"  MouseDown="c01r02_MouseDown"></Rectangle>
+        <Rectangle Name="c02r02" Grid.Column="2"  Grid.Row="2"  MouseDown="c02r02_MouseDown"></Rectangle>
+        <Rectangle Name="c03r02" Grid.Column="3"  Grid.Row="2"  MouseDown="c03r02_MouseDown"></Rectangle>
+        <Rectangle Name="c04r02" Grid.Column="4"  Grid.Row="2"  MouseDown="c04r02_MouseDown"></Rectangle>
+        <Rectangle Name="c05r02" Grid.Column="5"  Grid.Row="2"  MouseDown="c05r02_MouseDown"></Rectangle>
+        <Rectangle Name="c06r02" Grid.Column="6"  Grid.Row="2"  MouseDown="c06r02_MouseDown"></Rectangle>
+        <Rectangle Name="c07r02" Grid.Column="7"  Grid.Row="2"  MouseDown="c07r02_MouseDown"></Rectangle>
+        <Rectangle Name="c08r02" Grid.Column="8"  Grid.Row="2"  MouseDown="c08r02_MouseDown"></Rectangle>
+        <Rectangle Name="c09r02" Grid.Column="9"  Grid.Row="2"  MouseDown="c09r02_MouseDown"></Rectangle>
+        <Rectangle Name="c10r02" Grid.Column="10" Grid.Row="2"  MouseDown="c10r02_MouseDown"></Rectangle>
+        <Rectangle Name="c11r02" Grid.Column="11" Grid.Row="2"  MouseDown="c11r02_MouseDown"></Rectangle>
+        <Rectangle Name="c12r02" Grid.Column="12" Grid.Row="2"  MouseDown="c12r02_MouseDown"></Rectangle>
+        <Rectangle Name="c13r02" Grid.Column="13" Grid.Row="2"  MouseDown="c13r02_MouseDown"></Rectangle>
+        <Rectangle Name="c14r02" Grid.Column="14" Grid.Row="2"  MouseDown="c14r02_MouseDown"></Rectangle>
+        <Rectangle Name="c15r02" Grid.Column="15" Grid.Row="2"  MouseDown="c15r02_MouseDown"></Rectangle>
+        <Rectangle Name="c16r02" Grid.Column="16" Grid.Row="2"  MouseDown="c16r02_MouseDown"></Rectangle>
+        <Rectangle Name="c17r02" Grid.Column="17" Grid.Row="2"  MouseDown="c17r02_MouseDown"></Rectangle>
+        <Rectangle Name="c18r02" Grid.Column="18" Grid.Row="2"  MouseDown="c18r02_MouseDown"></Rectangle>
+        <Rectangle Name="c19r02" Grid.Column="19" Grid.Row="2"  MouseDown="c19r02_MouseDown"></Rectangle>
+        <Rectangle Name="c20r02" Grid.Column="20" Grid.Row="2"  MouseDown="c20r02_MouseDown"></Rectangle>
+        <Rectangle Name="c21r02" Grid.Column="21" Grid.Row="2"  MouseDown="c21r02_MouseDown"></Rectangle>
+        <Rectangle Name="c22r02" Grid.Column="22" Grid.Row="2"  MouseDown="c22r02_MouseDown"></Rectangle>
+        <Rectangle Name="c23r02" Grid.Column="23" Grid.Row="2"  MouseDown="c23r02_MouseDown"></Rectangle>
+        <Rectangle Name="c24r02" Grid.Column="24" Grid.Row="2"  MouseDown="c24r02_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r03" Grid.Column="0"  Grid.Row="3"  MouseDown="c00r03_MouseDown"></Rectangle>
+        <Rectangle Name="c01r03" Grid.Column="1"  Grid.Row="3"  MouseDown="c01r03_MouseDown"></Rectangle>
+        <Rectangle Name="c02r03" Grid.Column="2"  Grid.Row="3"  MouseDown="c02r03_MouseDown"></Rectangle>
+        <Rectangle Name="c03r03" Grid.Column="3"  Grid.Row="3"  MouseDown="c03r03_MouseDown"></Rectangle>
+        <Rectangle Name="c04r03" Grid.Column="4"  Grid.Row="3"  MouseDown="c04r03_MouseDown"></Rectangle>
+        <Rectangle Name="c05r03" Grid.Column="5"  Grid.Row="3"  MouseDown="c05r03_MouseDown"></Rectangle>
+        <Rectangle Name="c06r03" Grid.Column="6"  Grid.Row="3"  MouseDown="c06r03_MouseDown"></Rectangle>
+        <Rectangle Name="c07r03" Grid.Column="7"  Grid.Row="3"  MouseDown="c07r03_MouseDown"></Rectangle>
+        <Rectangle Name="c08r03" Grid.Column="8"  Grid.Row="3"  MouseDown="c08r03_MouseDown"></Rectangle>
+        <Rectangle Name="c09r03" Grid.Column="9"  Grid.Row="3"  MouseDown="c09r03_MouseDown"></Rectangle>
+        <Rectangle Name="c10r03" Grid.Column="10" Grid.Row="3"  MouseDown="c10r03_MouseDown"></Rectangle>
+        <Rectangle Name="c11r03" Grid.Column="11" Grid.Row="3"  MouseDown="c11r03_MouseDown"></Rectangle>
+        <Rectangle Name="c12r03" Grid.Column="12" Grid.Row="3"  MouseDown="c12r03_MouseDown"></Rectangle>
+        <Rectangle Name="c13r03" Grid.Column="13" Grid.Row="3"  MouseDown="c13r03_MouseDown"></Rectangle>
+        <Rectangle Name="c14r03" Grid.Column="14" Grid.Row="3"  MouseDown="c14r03_MouseDown"></Rectangle>
+        <Rectangle Name="c15r03" Grid.Column="15" Grid.Row="3"  MouseDown="c15r03_MouseDown"></Rectangle>
+        <Rectangle Name="c16r03" Grid.Column="16" Grid.Row="3"  MouseDown="c16r03_MouseDown"></Rectangle>
+        <Rectangle Name="c17r03" Grid.Column="17" Grid.Row="3"  MouseDown="c17r03_MouseDown"></Rectangle>
+        <Rectangle Name="c18r03" Grid.Column="18" Grid.Row="3"  MouseDown="c18r03_MouseDown"></Rectangle>
+        <Rectangle Name="c19r03" Grid.Column="19" Grid.Row="3"  MouseDown="c19r03_MouseDown"></Rectangle>
+        <Rectangle Name="c20r03" Grid.Column="20" Grid.Row="3"  MouseDown="c20r03_MouseDown"></Rectangle>
+        <Rectangle Name="c21r03" Grid.Column="21" Grid.Row="3"  MouseDown="c21r03_MouseDown"></Rectangle>
+        <Rectangle Name="c22r03" Grid.Column="22" Grid.Row="3"  MouseDown="c22r03_MouseDown"></Rectangle>
+        <Rectangle Name="c23r03" Grid.Column="23" Grid.Row="3"  MouseDown="c23r03_MouseDown"></Rectangle>
+        <Rectangle Name="c24r03" Grid.Column="24" Grid.Row="3"  MouseDown="c24r03_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r04" Grid.Column="0"  Grid.Row="4"  MouseDown="c00r04_MouseDown"></Rectangle>
+        <Rectangle Name="c01r04" Grid.Column="1"  Grid.Row="4"  MouseDown="c01r04_MouseDown"></Rectangle>
+        <Rectangle Name="c02r04" Grid.Column="2"  Grid.Row="4"  MouseDown="c02r04_MouseDown"></Rectangle>
+        <Rectangle Name="c03r04" Grid.Column="3"  Grid.Row="4"  MouseDown="c03r04_MouseDown"></Rectangle>
+        <Rectangle Name="c04r04" Grid.Column="4"  Grid.Row="4"  MouseDown="c04r04_MouseDown"></Rectangle>
+        <Rectangle Name="c05r04" Grid.Column="5"  Grid.Row="4"  MouseDown="c05r04_MouseDown"></Rectangle>
+        <Rectangle Name="c06r04" Grid.Column="6"  Grid.Row="4"  MouseDown="c06r04_MouseDown"></Rectangle>
+        <Rectangle Name="c07r04" Grid.Column="7"  Grid.Row="4"  MouseDown="c07r04_MouseDown"></Rectangle>
+        <Rectangle Name="c08r04" Grid.Column="8"  Grid.Row="4"  MouseDown="c08r04_MouseDown"></Rectangle>
+        <Rectangle Name="c09r04" Grid.Column="9"  Grid.Row="4"  MouseDown="c09r04_MouseDown"></Rectangle>
+        <Rectangle Name="c10r04" Grid.Column="10" Grid.Row="4"  MouseDown="c10r04_MouseDown"></Rectangle>
+        <Rectangle Name="c11r04" Grid.Column="11" Grid.Row="4"  MouseDown="c11r04_MouseDown"></Rectangle>
+        <Rectangle Name="c12r04" Grid.Column="12" Grid.Row="4"  MouseDown="c12r04_MouseDown"></Rectangle>
+        <Rectangle Name="c13r04" Grid.Column="13" Grid.Row="4"  MouseDown="c13r04_MouseDown"></Rectangle>
+        <Rectangle Name="c14r04" Grid.Column="14" Grid.Row="4"  MouseDown="c14r04_MouseDown"></Rectangle>
+        <Rectangle Name="c15r04" Grid.Column="15" Grid.Row="4"  MouseDown="c15r04_MouseDown"></Rectangle>
+        <Rectangle Name="c16r04" Grid.Column="16" Grid.Row="4"  MouseDown="c16r04_MouseDown"></Rectangle>
+        <Rectangle Name="c17r04" Grid.Column="17" Grid.Row="4"  MouseDown="c17r04_MouseDown"></Rectangle>
+        <Rectangle Name="c18r04" Grid.Column="18" Grid.Row="4"  MouseDown="c18r04_MouseDown"></Rectangle>
+        <Rectangle Name="c19r04" Grid.Column="19" Grid.Row="4"  MouseDown="c19r04_MouseDown"></Rectangle>
+        <Rectangle Name="c20r04" Grid.Column="20" Grid.Row="4"  MouseDown="c20r04_MouseDown"></Rectangle>
+        <Rectangle Name="c21r04" Grid.Column="21" Grid.Row="4"  MouseDown="c21r04_MouseDown"></Rectangle>
+        <Rectangle Name="c22r04" Grid.Column="22" Grid.Row="4"  MouseDown="c22r04_MouseDown"></Rectangle>
+        <Rectangle Name="c23r04" Grid.Column="23" Grid.Row="4"  MouseDown="c23r04_MouseDown"></Rectangle>
+        <Rectangle Name="c24r04" Grid.Column="24" Grid.Row="4"  MouseDown="c24r04_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r05" Grid.Column="0"  Grid.Row="5"  MouseDown="c00r05_MouseDown"></Rectangle>
+        <Rectangle Name="c01r05" Grid.Column="1"  Grid.Row="5"  MouseDown="c01r05_MouseDown"></Rectangle>
+        <Rectangle Name="c02r05" Grid.Column="2"  Grid.Row="5"  MouseDown="c02r05_MouseDown"></Rectangle>
+        <Rectangle Name="c03r05" Grid.Column="3"  Grid.Row="5"  MouseDown="c03r05_MouseDown"></Rectangle>
+        <Rectangle Name="c04r05" Grid.Column="4"  Grid.Row="5"  MouseDown="c04r05_MouseDown"></Rectangle>
+        <Rectangle Name="c05r05" Grid.Column="5"  Grid.Row="5"  MouseDown="c05r05_MouseDown"></Rectangle>
+        <Rectangle Name="c06r05" Grid.Column="6"  Grid.Row="5"  MouseDown="c06r05_MouseDown"></Rectangle>
+        <Rectangle Name="c07r05" Grid.Column="7"  Grid.Row="5"  MouseDown="c07r05_MouseDown"></Rectangle>
+        <Rectangle Name="c08r05" Grid.Column="8"  Grid.Row="5"  MouseDown="c08r05_MouseDown"></Rectangle>
+        <Rectangle Name="c09r05" Grid.Column="9"  Grid.Row="5"  MouseDown="c09r05_MouseDown"></Rectangle>
+        <Rectangle Name="c10r05" Grid.Column="10" Grid.Row="5"  MouseDown="c10r05_MouseDown"></Rectangle>
+        <Rectangle Name="c11r05" Grid.Column="11" Grid.Row="5"  MouseDown="c11r05_MouseDown"></Rectangle>
+        <Rectangle Name="c12r05" Grid.Column="12" Grid.Row="5"  MouseDown="c12r05_MouseDown"></Rectangle>
+        <Rectangle Name="c13r05" Grid.Column="13" Grid.Row="5"  MouseDown="c13r05_MouseDown"></Rectangle>
+        <Rectangle Name="c14r05" Grid.Column="14" Grid.Row="5"  MouseDown="c14r05_MouseDown"></Rectangle>
+        <Rectangle Name="c15r05" Grid.Column="15" Grid.Row="5"  MouseDown="c15r05_MouseDown"></Rectangle>
+        <Rectangle Name="c16r05" Grid.Column="16" Grid.Row="5"  MouseDown="c16r05_MouseDown"></Rectangle>
+        <Rectangle Name="c17r05" Grid.Column="17" Grid.Row="5"  MouseDown="c17r05_MouseDown"></Rectangle>
+        <Rectangle Name="c18r05" Grid.Column="18" Grid.Row="5"  MouseDown="c18r05_MouseDown"></Rectangle>
+        <Rectangle Name="c19r05" Grid.Column="19" Grid.Row="5"  MouseDown="c19r05_MouseDown"></Rectangle>
+        <Rectangle Name="c20r05" Grid.Column="20" Grid.Row="5"  MouseDown="c20r05_MouseDown"></Rectangle>
+        <Rectangle Name="c21r05" Grid.Column="21" Grid.Row="5"  MouseDown="c21r05_MouseDown"></Rectangle>
+        <Rectangle Name="c22r05" Grid.Column="22" Grid.Row="5"  MouseDown="c22r05_MouseDown"></Rectangle>
+        <Rectangle Name="c23r05" Grid.Column="23" Grid.Row="5"  MouseDown="c23r05_MouseDown"></Rectangle>
+        <Rectangle Name="c24r05" Grid.Column="24" Grid.Row="5"  MouseDown="c24r05_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r06" Grid.Column="0"  Grid.Row="6"  MouseDown="c00r06_MouseDown"></Rectangle>
+        <Rectangle Name="c01r06" Grid.Column="1"  Grid.Row="6"  MouseDown="c01r06_MouseDown"></Rectangle>
+        <Rectangle Name="c02r06" Grid.Column="2"  Grid.Row="6"  MouseDown="c02r06_MouseDown"></Rectangle>
+        <Rectangle Name="c03r06" Grid.Column="3"  Grid.Row="6"  MouseDown="c03r06_MouseDown"></Rectangle>
+        <Rectangle Name="c04r06" Grid.Column="4"  Grid.Row="6"  MouseDown="c04r06_MouseDown"></Rectangle>
+        <Rectangle Name="c05r06" Grid.Column="5"  Grid.Row="6"  MouseDown="c05r06_MouseDown"></Rectangle>
+        <Rectangle Name="c06r06" Grid.Column="6"  Grid.Row="6"  MouseDown="c06r06_MouseDown"></Rectangle>
+        <Rectangle Name="c07r06" Grid.Column="7"  Grid.Row="6"  MouseDown="c07r06_MouseDown"></Rectangle>
+        <Rectangle Name="c08r06" Grid.Column="8"  Grid.Row="6"  MouseDown="c08r06_MouseDown"></Rectangle>
+        <Rectangle Name="c09r06" Grid.Column="9"  Grid.Row="6"  MouseDown="c09r06_MouseDown"></Rectangle>
+        <Rectangle Name="c10r06" Grid.Column="10" Grid.Row="6"  MouseDown="c10r06_MouseDown"></Rectangle>
+        <Rectangle Name="c11r06" Grid.Column="11" Grid.Row="6"  MouseDown="c11r06_MouseDown"></Rectangle>
+        <Rectangle Name="c12r06" Grid.Column="12" Grid.Row="6"  MouseDown="c12r06_MouseDown"></Rectangle>
+        <Rectangle Name="c13r06" Grid.Column="13" Grid.Row="6"  MouseDown="c13r06_MouseDown"></Rectangle>
+        <Rectangle Name="c14r06" Grid.Column="14" Grid.Row="6"  MouseDown="c14r06_MouseDown"></Rectangle>
+        <Rectangle Name="c15r06" Grid.Column="15" Grid.Row="6"  MouseDown="c15r06_MouseDown"></Rectangle>
+        <Rectangle Name="c16r06" Grid.Column="16" Grid.Row="6"  MouseDown="c16r06_MouseDown"></Rectangle>
+        <Rectangle Name="c17r06" Grid.Column="17" Grid.Row="6"  MouseDown="c17r06_MouseDown"></Rectangle>
+        <Rectangle Name="c18r06" Grid.Column="18" Grid.Row="6"  MouseDown="c18r06_MouseDown"></Rectangle>
+        <Rectangle Name="c19r06" Grid.Column="19" Grid.Row="6"  MouseDown="c19r06_MouseDown"></Rectangle>
+        <Rectangle Name="c20r06" Grid.Column="20" Grid.Row="6"  MouseDown="c20r06_MouseDown"></Rectangle>
+        <Rectangle Name="c21r06" Grid.Column="21" Grid.Row="6"  MouseDown="c21r06_MouseDown"></Rectangle>
+        <Rectangle Name="c22r06" Grid.Column="22" Grid.Row="6"  MouseDown="c22r06_MouseDown"></Rectangle>
+        <Rectangle Name="c23r06" Grid.Column="23" Grid.Row="6"  MouseDown="c23r06_MouseDown"></Rectangle>
+        <Rectangle Name="c24r06" Grid.Column="24" Grid.Row="6"  MouseDown="c24r06_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r07" Grid.Column="0"  Grid.Row="7"  MouseDown="c00r07_MouseDown"></Rectangle>
+        <Rectangle Name="c01r07" Grid.Column="1"  Grid.Row="7"  MouseDown="c01r07_MouseDown"></Rectangle>
+        <Rectangle Name="c02r07" Grid.Column="2"  Grid.Row="7"  MouseDown="c02r07_MouseDown"></Rectangle>
+        <Rectangle Name="c03r07" Grid.Column="3"  Grid.Row="7"  MouseDown="c03r07_MouseDown"></Rectangle>
+        <Rectangle Name="c04r07" Grid.Column="4"  Grid.Row="7"  MouseDown="c04r07_MouseDown"></Rectangle>
+        <Rectangle Name="c05r07" Grid.Column="5"  Grid.Row="7"  MouseDown="c05r07_MouseDown"></Rectangle>
+        <Rectangle Name="c06r07" Grid.Column="6"  Grid.Row="7"  MouseDown="c06r07_MouseDown"></Rectangle>
+        <Rectangle Name="c07r07" Grid.Column="7"  Grid.Row="7"  MouseDown="c07r07_MouseDown"></Rectangle>
+        <Rectangle Name="c08r07" Grid.Column="8"  Grid.Row="7"  MouseDown="c08r07_MouseDown"></Rectangle>
+        <Rectangle Name="c09r07" Grid.Column="9"  Grid.Row="7"  MouseDown="c09r07_MouseDown"></Rectangle>
+        <Rectangle Name="c10r07" Grid.Column="10" Grid.Row="7"  MouseDown="c10r07_MouseDown"></Rectangle>
+        <Rectangle Name="c11r07" Grid.Column="11" Grid.Row="7"  MouseDown="c11r07_MouseDown"></Rectangle>
+        <Rectangle Name="c12r07" Grid.Column="12" Grid.Row="7"  MouseDown="c12r07_MouseDown"></Rectangle>
+        <Rectangle Name="c13r07" Grid.Column="13" Grid.Row="7"  MouseDown="c13r07_MouseDown"></Rectangle>
+        <Rectangle Name="c14r07" Grid.Column="14" Grid.Row="7"  MouseDown="c14r07_MouseDown"></Rectangle>
+        <Rectangle Name="c15r07" Grid.Column="15" Grid.Row="7"  MouseDown="c15r07_MouseDown"></Rectangle>
+        <Rectangle Name="c16r07" Grid.Column="16" Grid.Row="7"  MouseDown="c16r07_MouseDown"></Rectangle>
+        <Rectangle Name="c17r07" Grid.Column="17" Grid.Row="7"  MouseDown="c17r07_MouseDown"></Rectangle>
+        <Rectangle Name="c18r07" Grid.Column="18" Grid.Row="7"  MouseDown="c18r07_MouseDown"></Rectangle>
+        <Rectangle Name="c19r07" Grid.Column="19" Grid.Row="7"  MouseDown="c19r07_MouseDown"></Rectangle>
+        <Rectangle Name="c20r07" Grid.Column="20" Grid.Row="7"  MouseDown="c20r07_MouseDown"></Rectangle>
+        <Rectangle Name="c21r07" Grid.Column="21" Grid.Row="7"  MouseDown="c21r07_MouseDown"></Rectangle>
+        <Rectangle Name="c22r07" Grid.Column="22" Grid.Row="7"  MouseDown="c22r07_MouseDown"></Rectangle>
+        <Rectangle Name="c23r07" Grid.Column="23" Grid.Row="7"  MouseDown="c23r07_MouseDown"></Rectangle>
+        <Rectangle Name="c24r07" Grid.Column="24" Grid.Row="7"  MouseDown="c24r07_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r08" Grid.Column="0"  Grid.Row="8"  MouseDown="c00r08_MouseDown"></Rectangle>
+        <Rectangle Name="c01r08" Grid.Column="1"  Grid.Row="8"  MouseDown="c01r08_MouseDown"></Rectangle>
+        <Rectangle Name="c02r08" Grid.Column="2"  Grid.Row="8"  MouseDown="c02r08_MouseDown"></Rectangle>
+        <Rectangle Name="c03r08" Grid.Column="3"  Grid.Row="8"  MouseDown="c03r08_MouseDown"></Rectangle>
+        <Rectangle Name="c04r08" Grid.Column="4"  Grid.Row="8"  MouseDown="c04r08_MouseDown"></Rectangle>
+        <Rectangle Name="c05r08" Grid.Column="5"  Grid.Row="8"  MouseDown="c05r08_MouseDown"></Rectangle>
+        <Rectangle Name="c06r08" Grid.Column="6"  Grid.Row="8"  MouseDown="c06r08_MouseDown"></Rectangle>
+        <Rectangle Name="c07r08" Grid.Column="7"  Grid.Row="8"  MouseDown="c07r08_MouseDown"></Rectangle>
+        <Rectangle Name="c08r08" Grid.Column="8"  Grid.Row="8"  MouseDown="c08r08_MouseDown"></Rectangle>
+        <Rectangle Name="c09r08" Grid.Column="9"  Grid.Row="8"  MouseDown="c09r08_MouseDown"></Rectangle>
+        <Rectangle Name="c10r08" Grid.Column="10" Grid.Row="8"  MouseDown="c10r08_MouseDown"></Rectangle>
+        <Rectangle Name="c11r08" Grid.Column="11" Grid.Row="8"  MouseDown="c11r08_MouseDown"></Rectangle>
+        <Rectangle Name="c12r08" Grid.Column="12" Grid.Row="8"  MouseDown="c12r08_MouseDown"></Rectangle>
+        <Rectangle Name="c13r08" Grid.Column="13" Grid.Row="8"  MouseDown="c13r08_MouseDown"></Rectangle>
+        <Rectangle Name="c14r08" Grid.Column="14" Grid.Row="8"  MouseDown="c14r08_MouseDown"></Rectangle>
+        <Rectangle Name="c15r08" Grid.Column="15" Grid.Row="8"  MouseDown="c15r08_MouseDown"></Rectangle>
+        <Rectangle Name="c16r08" Grid.Column="16" Grid.Row="8"  MouseDown="c16r08_MouseDown"></Rectangle>
+        <Rectangle Name="c17r08" Grid.Column="17" Grid.Row="8"  MouseDown="c17r08_MouseDown"></Rectangle>
+        <Rectangle Name="c18r08" Grid.Column="18" Grid.Row="8"  MouseDown="c18r08_MouseDown"></Rectangle>
+        <Rectangle Name="c19r08" Grid.Column="19" Grid.Row="8"  MouseDown="c19r08_MouseDown"></Rectangle>
+        <Rectangle Name="c20r08" Grid.Column="20" Grid.Row="8"  MouseDown="c20r08_MouseDown"></Rectangle>
+        <Rectangle Name="c21r08" Grid.Column="21" Grid.Row="8"  MouseDown="c21r08_MouseDown"></Rectangle>
+        <Rectangle Name="c22r08" Grid.Column="22" Grid.Row="8"  MouseDown="c22r08_MouseDown"></Rectangle>
+        <Rectangle Name="c23r08" Grid.Column="23" Grid.Row="8"  MouseDown="c23r08_MouseDown"></Rectangle>
+        <Rectangle Name="c24r08" Grid.Column="24" Grid.Row="8"  MouseDown="c24r08_MouseDown"></Rectangle>
+
+        <Rectangle Name="c00r09" Grid.Column="0"  Grid.Row="9"  MouseDown="c00r09_MouseDown"></Rectangle>
+        <Rectangle Name="c01r09" Grid.Column="1"  Grid.Row="9"  MouseDown="c01r09_MouseDown"></Rectangle>
+        <Rectangle Name="c02r09" Grid.Column="2"  Grid.Row="9"  MouseDown="c02r09_MouseDown"></Rectangle>
+        <Rectangle Name="c03r09" Grid.Column="3"  Grid.Row="9"  MouseDown="c03r09_MouseDown"></Rectangle>
+        <Rectangle Name="c04r09" Grid.Column="4"  Grid.Row="9"  MouseDown="c04r09_MouseDown"></Rectangle>
+        <Rectangle Name="c05r09" Grid.Column="5"  Grid.Row="9"  MouseDown="c05r09_MouseDown"></Rectangle>
+        <Rectangle Name="c06r09" Grid.Column="6"  Grid.Row="9"  MouseDown="c06r09_MouseDown"></Rectangle>
+        <Rectangle Name="c07r09" Grid.Column="7"  Grid.Row="9"  MouseDown="c07r09_MouseDown"></Rectangle>
+        <Rectangle Name="c08r09" Grid.Column="8"  Grid.Row="9"  MouseDown="c08r09_MouseDown"></Rectangle>
+        <Rectangle Name="c09r09" Grid.Column="9"  Grid.Row="9"  MouseDown="c09r09_MouseDown"></Rectangle>
+        <Rectangle Name="c10r09" Grid.Column="10" Grid.Row="9"  MouseDown="c10r09_MouseDown"></Rectangle>
+        <Rectangle Name="c11r09" Grid.Column="11" Grid.Row="9"  MouseDown="c11r09_MouseDown"></Rectangle>
+        <Rectangle Name="c12r09" Grid.Column="12" Grid.Row="9"  MouseDown="c12r09_MouseDown"></Rectangle>
+        <Rectangle Name="c13r09" Grid.Column="13" Grid.Row="9"  MouseDown="c13r09_MouseDown"></Rectangle>
+        <Rectangle Name="c14r09" Grid.Column="14" Grid.Row="9"  MouseDown="c14r09_MouseDown"></Rectangle>
+        <Rectangle Name="c15r09" Grid.Column="15" Grid.Row="9"  MouseDown="c15r09_MouseDown"></Rectangle>
+        <Rectangle Name="c16r09" Grid.Column="16" Grid.Row="9"  MouseDown="c16r09_MouseDown"></Rectangle>
+        <Rectangle Name="c17r09" Grid.Column="17" Grid.Row="9"  MouseDown="c17r09_MouseDown"></Rectangle>
+        <Rectangle Name="c18r09" Grid.Column="18" Grid.Row="9"  MouseDown="c18r09_MouseDown"></Rectangle>
+        <Rectangle Name="c19r09" Grid.Column="19" Grid.Row="9"  MouseDown="c19r09_MouseDown"></Rectangle>
+        <Rectangle Name="c20r09" Grid.Column="20" Grid.Row="9"  MouseDown="c20r09_MouseDown"></Rectangle>
+        <Rectangle Name="c21r09" Grid.Column="21" Grid.Row="9"  MouseDown="c21r09_MouseDown"></Rectangle>
+        <Rectangle Name="c22r09" Grid.Column="22" Grid.Row="9"  MouseDown="c22r09_MouseDown"></Rectangle>
+        <Rectangle Name="c23r09" Grid.Column="23" Grid.Row="9"  MouseDown="c23r09_MouseDown"></Rectangle>
+        <Rectangle Name="c24r09" Grid.Column="24" Grid.Row="9"  MouseDown="c24r09_MouseDown"></Rectangle>
+
+        <TextBlock x:Name="lbl_counter" Grid.Column="0" Grid.Row="12" Grid.ColumnSpan="2" Grid.RowSpan="2" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20" Text="Moves: " />
+        <Button Name="btn_back" Grid.Column="2" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Click="btn_back_Click">Back</Button>
+        <Button Name="btn_restart" Grid.Column="4" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Click="btn_restart_Click">Restart</Button>
+
+
+        <Button Name="btn_piros" Grid.Column="7" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Red" Click="btn_piros_Click"></Button>
+        <Button Name="btn_kek" Grid.Column="9" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="Blue" Click="btn_kek_Click"></Button>
+        <Button Name="btn_zold" Grid.Column="11" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Green" Click="btn_zold_Click"></Button>
+        <Button Name="btn_sarga" Grid.Column="13" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Yellow" Click="btn_sarga_Click"></Button>
+        <Button Name="btn_cian" Grid.Column="15" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Cyan" Click="btn_cian_Click"></Button>
+        <Button Name="btn_magenta" Grid.Column="17" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Magenta" Click="btn_magenta_Click"></Button>
+        <Button Name="btn_barna" Grid.Column="19" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Brown" Click="btn_barna_Click"></Button>
+        <Button Name="btn_szurke" Grid.Column="21" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Gray" Click="btn_szurke_Click"></Button>
+        <Button Name="btn_fekete" Grid.Column="23" Grid.Row="12" Grid.RowSpan="2" Grid.ColumnSpan="2"  Background="Black" Click="btn_fekete_Click"></Button>
+    </Grid>
+    
+</UserControl>

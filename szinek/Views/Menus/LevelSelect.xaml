@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="szinek.LevelSelect"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:szinek"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid Background="#FF5DC2D5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+
+        </Grid.RowDefinitions>
+        
+        <Rectangle Grid.Column="1" Grid.Row="1" Grid.RowSpan="11" Grid.ColumnSpan="21" Fill="White"></Rectangle>
+        <Button  x:Name="btnLevel1"  Grid.Column="2" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level1" Cursor="Hand">1</Button>
+        <Button  x:Name="btnLevel2"  Grid.Column="4" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level2" Cursor="Hand">2</Button>
+        <Button  x:Name="btnLevel3"  Grid.Column="6" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level3" Cursor="Hand">3</Button>
+        <Button  x:Name="btnLevel4"  Grid.Column="8" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level4" Cursor="Hand">4</Button>
+        <Button  x:Name="btnLevel5" Grid.Column="10" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level5" Cursor="Hand">5</Button>
+        <Button  x:Name="btnLevel6" Grid.Column="12" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level6" Cursor="Hand">6</Button>
+        <Button  x:Name="btnLevel7" Grid.Column="14" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level7" Cursor="Hand">7</Button>
+        <Button  x:Name="btnLevel8" Grid.Column="16" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level8" Cursor="Hand">8</Button>
+        <Button  x:Name="btnLevel9" Grid.Column="18" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level9" Cursor="Hand">9</Button>
+        <Button x:Name="btnLevel10" Grid.Column="20" Grid.Row="2" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level10" Cursor="Hand">10</Button>
+
+        <Button  x:Name="btnLevel11"  Grid.Column="2" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level11" Cursor="Hand">11</Button>
+        <Button  x:Name="btnLevel12"  Grid.Column="4" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level12" Cursor="Hand">12</Button>
+        <Button  x:Name="btnLevel13"  Grid.Column="6" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level13" Cursor="Hand">13</Button>
+        <Button  x:Name="btnLevel14"  Grid.Column="8" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level14" Cursor="Hand">14</Button>
+        <Button  x:Name="btnLevel15" Grid.Column="10" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level15" Cursor="Hand">15</Button>
+        <Button  x:Name="btnLevel16" Grid.Column="12" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level16" Cursor="Hand">16</Button>
+        <Button  x:Name="btnLevel17" Grid.Column="14" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level17" Cursor="Hand">17</Button>
+        <Button  x:Name="btnLevel18" Grid.Column="16" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level18" Cursor="Hand">18</Button>
+        <Button  x:Name="btnLevel19" Grid.Column="18" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level19" Cursor="Hand">19</Button>
+        <Button x:Name="btnLevel20" Grid.Column="20" Grid.Row="4" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level20" Cursor="Hand">20</Button>
+
+        <Button  x:Name="btnLevel21"  Grid.Column="2" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level21" Cursor="Hand">21</Button>
+        <Button  x:Name="btnLevel22"  Grid.Column="4" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level22" Cursor="Hand">22</Button>
+        <Button  x:Name="btnLevel23"  Grid.Column="6" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level23" Cursor="Hand">23</Button>
+        <Button  x:Name="btnLevel24"  Grid.Column="8" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level24" Cursor="Hand">24</Button>
+        <Button  x:Name="btnLevel25" Grid.Column="10" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level25" Cursor="Hand">25</Button>
+        <Button  x:Name="btnLevel26" Grid.Column="12" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level26" Cursor="Hand">26</Button>
+        <Button  x:Name="btnLevel27" Grid.Column="14" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level27" Cursor="Hand">27</Button>
+        <Button  x:Name="btnLevel28" Grid.Column="16" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level28" Cursor="Hand">28</Button>
+        <Button  x:Name="btnLevel29" Grid.Column="18" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level29" Cursor="Hand">29</Button>
+        <Button x:Name="btnLevel30" Grid.Column="20" Grid.Row="6" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level30" Cursor="Hand">30</Button>
+
+        <Button  x:Name="btnLevel31"  Grid.Column="2" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level31" Cursor="Hand">31</Button>
+        <Button  x:Name="btnLevel32"  Grid.Column="4" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level32" Cursor="Hand">32</Button>
+        <Button  x:Name="btnLevel33"  Grid.Column="6" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level33" Cursor="Hand">33</Button>
+        <Button  x:Name="btnLevel34"  Grid.Column="8" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level34" Cursor="Hand">34</Button>
+        <Button  x:Name="btnLevel35" Grid.Column="10" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level35" Cursor="Hand">35</Button>
+        <Button  x:Name="btnLevel36" Grid.Column="12" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level36" Cursor="Hand">36</Button>
+        <Button  x:Name="btnLevel37" Grid.Column="14" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level37" Cursor="Hand">37</Button>
+        <Button  x:Name="btnLevel38" Grid.Column="16" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level38" Cursor="Hand">38</Button>
+        <Button  x:Name="btnLevel39" Grid.Column="18" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level39" Cursor="Hand">39</Button>
+        <Button x:Name="btnLevel40" Grid.Column="20" Grid.Row="8" Background="#FF5DC2D5" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_Level40" Cursor="Hand">40</Button>
+
+        <Button x:Name="btnBackToMainMenu" Grid.Column="10" Grid.Row="10" Grid.ColumnSpan="3" Background="Red" Foreground="White" BorderBrush="{x:Null}" FontFamily="Open Sans SemiBold" FontSize="14" Click="click_BackToMainMenu" Cursor="Hand">Main Menu</Button>
+
+    </Grid>
+</UserControl>

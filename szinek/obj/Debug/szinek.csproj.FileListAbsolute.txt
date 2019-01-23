@@ -1,0 +1,80 @@
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\bin\Debug\szinek.exe.config
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\bin\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\bin\Debug\szinek.pdb
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.csprojAssemblyReference.cache
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\MainWindow.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\App.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek_MarkupCompile.cache
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek_MarkupCompile.lref
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\MainWindow.baml
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.g.resources
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.Properties.Resources.resources
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.csproj.GenerateResource.cache
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.csproj.CoreCompileInputs.cache
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\szinek\szinek\obj\Debug\szinek.pdb
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\App.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek_MarkupCompile.cache
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.pdb
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\szinek.exe.config
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\szinek.pdb
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\MainWindow.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek_MarkupCompile.lref
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\MainWindow.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.g.resources
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.Properties.Resources.resources
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.csproj.GenerateResource.cache
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.csproj.CoreCompileInputs.cache
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\LevelSelect.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\MainMenu.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\LevelSelect.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\MainMenu.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\CsvHelper.dll
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\CsvHelper.xml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.csproj.CopyComplete
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\LevelEditor.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Menus\LevelEditor.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\Level1.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\LevelComplete.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\Level1.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\LevelComplete.baml
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.csprojAssemblyReference.cache
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\szinek.exe.manifest
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\bin\Debug\szinek.application
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.exe.manifest
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\szinek.application
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\LevelFailed.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\grid\szinek\szinek\obj\Debug\Views\Levels\LevelFailed.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\bin\Debug\szinek.exe.config
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\bin\Debug\szinek.exe.manifest
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\bin\Debug\szinek.application
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\bin\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\bin\Debug\szinek.pdb
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.csprojAssemblyReference.cache
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\LevelFailed.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\Level1.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\LevelComplete.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\LevelEditor.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\LevelSelect.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\MainMenu.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\MainWindow.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\App.g.cs
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek_MarkupCompile.cache
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek_MarkupCompile.lref
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\LevelFailed.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\Level1.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Levels\LevelComplete.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\LevelEditor.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\LevelSelect.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\Views\Menus\MainMenu.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\MainWindow.baml
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.g.resources
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.Properties.Resources.resources
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.csproj.GenerateResource.cache
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.csproj.CoreCompileInputs.cache
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.exe.manifest
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.application
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.exe
+C:\Users\Gajdi\Desktop\progkörnybead\PaintIT (1)\PaintIT\PaintIT SourceCode\szinek\obj\Debug\szinek.pdb
